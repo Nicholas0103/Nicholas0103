@@ -5,7 +5,7 @@
 
 I am a **Bachelor of Cyber Security** student with a deep interest in digital forensics and network defense. I enjoy deconstructing how systems work to better understand how to protect them.
 - I’m currently working on improving my UI Design skills.
-- I’m passionate about **mobile app development** and ethical hacking.
+- I’m passionate about mobile app development and ethical hacking.
 - I'm focused on bridging the gap between software development and secure infrastructure.
 
 ---
@@ -84,7 +84,7 @@ I am a **Bachelor of Cyber Security** student with a deep interest in digital fo
 
 > ### Social Media:
 > 
-> [![Instagram](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/yourprofile)
-[![Discord](https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.com/yourprofile)
+> [![Instagram](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/mikewheelerstpdaso?igsh=Y2gwdWM0cHU1cDAx)
+[![Discord](https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discordapp.com/users/780847965303996416)
 
 ---
