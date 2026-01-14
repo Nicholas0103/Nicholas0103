@@ -25,9 +25,9 @@
 ### IDE:
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![LabVIEW](https://img.shields.io/badge/Lab%20VIEW-FFDB00.svg?style=for-the-badge&logo=labview&logoColor=black)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 ### OS:
@@ -67,8 +67,11 @@
 
 ### Social Media:
 
-![Valorant](https://img.shields.io/badge/Valorant-white?style=for-the-badge&logo=valorant&logoColor=white&labelColor=FA4454)
+![Facebook](https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2)](https://facebook.com/yourprofile)
+![Instagram](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://facebook.com/yourprofile)
+![Discord](https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)
 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/yourprofile)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/yourprofile)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yourprofile)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/yourprofile)
